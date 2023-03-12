@@ -63,7 +63,7 @@ body {
   text-align: center;
   gap: 36px;
 }
-.header-header__nav_left_logo_h1 {
+.header-header__nav_left_logo_h2 {
   font-family: "Roboto";
   font-weight: 700;
   font-size: 30px;
@@ -182,7 +182,7 @@ body {
   align-items: center;
   text-align: center;
 }
-.main-aside__h1 {
+.main-aside__h2 {
   margin-bottom: 30px;
 
   font-family: "Roboto";
@@ -264,9 +264,9 @@ body {
   text-align: start;
   width: 480px;
 }
-.main-section1__block_text_h1,
-.main-section2__block_text_h1,
-.main-section3__block_text_h1 {
+.main-section1__block_text_h2,
+.main-section2__block_text_h2,
+.main-section3__block_text_h2 {
   font-family: "Roboto";
   font-weight: 700;
   font-size: 40px;
@@ -310,7 +310,7 @@ body {
   text-align: center;
   margin-bottom: 80px;
 }
-.section-section2__h1 {
+.section-section2__h2 {
   justify-content: center;
   text-align: center;
   font-family: "Roboto";
@@ -388,9 +388,9 @@ body {
   background: #2a407c;
   margin-top: 37px;
 }
-.section-section2__rates_rate1_h1,
-.section-section2__rates_rate2_h1,
-.section-section2__rates_rate3_h1 {
+.section-section2__rates_rate1_h3,
+.section-section2__rates_rate2_h3,
+.section-section2__rates_rate3_h3 {
   margin-top: 27px;
   font-family: "Roboto";
   font-style: normal;
@@ -491,7 +491,7 @@ body {
   flex-direction: column;
   justify-content: start;
 }
-.aside-content__left_h1 {
+.aside-content__left_h2 {
   font-family: "Roboto";
   font-weight: 700;
   font-size: 32px;
@@ -741,7 +741,7 @@ footer {
     width: 30px;
     height: 30px;
   }
-  .header-header__nav_left_logo_h1 {
+  .header-header__nav_left_logo_h2 {
     width: 88px;
     height: 12px;
     font-size: 12.15px;
@@ -898,7 +898,7 @@ footer {
     width: 375px;
     margin-left: 0px;
   }
-  .section-section2__h1 {
+  .section-section2__h2 {
     font-size: 30px;
   }
   .section-section2__p {
@@ -926,9 +926,9 @@ footer {
   .section-section2__rates_rate3_p {
     font-size: 13px;
   }
-  .section-section2__rates_rate1_h1,
-  .section-section2__rates_rate2_h1,
-  .section-section2__rates_rate3_h1 {
+  .section-section2__rates_rate1_h3,
+  .section-section2__rates_rate2_h3,
+  .section-section2__rates_rate3_h3 {
     font-size: 30px;
     margin-top: 20px;
   }
