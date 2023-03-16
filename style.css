@@ -29,6 +29,7 @@ body {
   margin-bottom: 55px;
 }
 
+
 .conteiner {
   width: 1180px;
   margin: 0 auto;
@@ -79,9 +80,7 @@ body {
   color: #8794ba;
   font-style: normal;
 }
-.header-header__menu_activ {
-  display: none;
-}
+
 .header-header__nav_right {
   display: flex;
   align-items: center;
@@ -106,6 +105,9 @@ body {
   line-height: 19px;
   color: #8794ba;
   font-style: normal;
+}
+.hidden {
+  display: none;
 }
 .header-header__nav_right_menu {
   display: none;
@@ -750,6 +752,7 @@ footer {
     gap: 18px;
     margin-right: 25px;
   }
+ 
   .header-header__menu_activ {
     z-index: 4;
     background: gray;
@@ -759,9 +762,8 @@ footer {
     left: 175px;
     top: 100px;
   }
-  .hidden {
-    display: block;
-  }
+
+
   .header-header__menu_activ_h4 {
     margin-top: 20px;
     margin-bottom: 30px;
